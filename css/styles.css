@@ -11,11 +11,17 @@
   background: rgba(255, 255, 255, 0.5);
 
 }
+img {
+  width: 100%;
+  padding: 40px;
+}
 .sidebar {
   float: right;
   color: blue;
   background-color: lightblue;
-  border: 9px solid black
+  border: 20px solid black;
+  margin-right: 20px;
+  padding: 4px;
 }
 .header h1 {
   position: absolute;
